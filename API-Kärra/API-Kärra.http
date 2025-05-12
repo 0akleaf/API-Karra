@@ -1,0 +1,6 @@
+@API_Kärra_HostAddress = http://localhost:5265
+
+GET {{API_Kärra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
